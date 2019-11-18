@@ -1,0 +1,29 @@
+body {
+    background: url('media/Mario_Circuit_MKWii.png') center no-repeat fixed;
+    background-size: cover;
+}
+
+
+div {
+    text-align: center;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 15px;
+    margin: auto;
+    width: 900px;
+
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+#results img {
+    width: 40px; 
+    height: 40px;
+    border: 1px solid black;
+}
